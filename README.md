@@ -1,3 +1,7 @@
+=======
+Caio César Oliveira Silva
+Filipe Santos Lima
+Luiz Augusto Mendes Barbosa
 # Sistema de Gerenciamento Clínico (Frontend)
 
 Uma aplicação web abrangente para gerenciamento clínico, agendamento de exames médicos, gerenciamento de pacientes e acompanhamento de resultados de exames.
