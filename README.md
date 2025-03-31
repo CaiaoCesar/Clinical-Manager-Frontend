@@ -4,9 +4,9 @@ Luiz Augusto Mendes Barbosa
 =======
 # Autores
 
+- *Caio César* ([GitHub](https://github.com/CaiaoCesar)) 
 - *Felipe Santos* ([GitHub](https://github.com/lsantosfelipe1))
 - *Luiz Augusto*  ([GitHub](https://github.com/LuizzzM))
-- *Caio César* ([GitHub](https://github.com/CaiaoCesar)) 
 # Sistema de Gerenciamento Clínico (Frontend)
 
 Uma aplicação web abrangente para gerenciamento clínico, agendamento de exames médicos, gerenciamento de pacientes e acompanhamento de resultados de exames.
@@ -126,7 +126,7 @@ O frontend se comunica com uma API backend via endpoints RESTful usando Axios. O
 
 1. Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/clinical-manager-front.git
+git clone https://github.com/CaiaoCesar/Clinical-Manager-Frontend.git
 ```
 
 2. Abra o projeto em seu editor de código preferido
